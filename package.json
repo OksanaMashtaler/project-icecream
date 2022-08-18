@@ -2,10 +2,10 @@
   "name": "parcel-project-template",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://Andriy-Lik.github.io/teamFSON59project",
+  "homepage": "https://oksanamashtaler.github.io/project-icecream",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /teamFSON59project/"
+    "build": "parcel build src/*.html --public-url /project-icecream/"
   },
   "repository": {
     "type": "git",
